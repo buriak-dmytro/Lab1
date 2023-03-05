@@ -1,0 +1,15 @@
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\bin\Debug\net6.0\Task 1.exe
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\bin\Debug\net6.0\Task 1.deps.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\bin\Debug\net6.0\Task 1.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\bin\Debug\net6.0\Task 1.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\refint\Task 1.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab 1\Task 1\obj\Debug\net6.0\ref\Task 1.dll
