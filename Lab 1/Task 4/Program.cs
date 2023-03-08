@@ -20,14 +20,14 @@
         public static double CalculateSequenceSum(CallbackMember memberNext, double epsilon)
         {
             double sum = 0;
-            double sumCurrent = 0;
             int numberOfSequence = 1;
+            double currMember = memberNext(numberOfSequence);
 
-            do
+            while (Math.Abs(currMember) > epsilon)
             {
-                sum = sumCurrent;
-                sumCurrent += memberNext(++numberOfSequence);
-            } while (Math.Abs(sumCurrent - sum) > epsilon);
+                sum += currMember;
+                currMember = memberNext(numberOfSequence++);
+            }
 
             return sum;
         }

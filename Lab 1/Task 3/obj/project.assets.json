@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab 1\\Task 3\\Task 3.csproj",
+      "projectUniqueName": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab1\\Lab 1\\Task 3\\Task 3.csproj",
       "projectName": "Task 3",
-      "projectPath": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab 1\\Task 3\\Task 3.csproj",
+      "projectPath": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab1\\Lab 1\\Task 3\\Task 3.csproj",
       "packagesPath": "C:\\Users\\dimb0\\.nuget\\packages\\",
-      "outputPath": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab 1\\Task 3\\obj\\",
+      "outputPath": "E:\\University ChNU\\Programming\\Year 2\\Term 2\\Lab 1\\Lab1\\Lab 1\\Task 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimb0\\AppData\\Roaming\\NuGet\\NuGet.Config",

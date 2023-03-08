@@ -1,0 +1,17 @@
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\bin\Debug\net6.0-windows\Task 6.exe
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\bin\Debug\net6.0-windows\Task 6.deps.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\bin\Debug\net6.0-windows\Task 6.runtimeconfig.json
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\bin\Debug\net6.0-windows\Task 6.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\bin\Debug\net6.0-windows\Task 6.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.csproj.AssemblyReference.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task_6.Form1.resources
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.csproj.GenerateResource.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.AssemblyInfoInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.AssemblyInfo.cs
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.csproj.CoreCompileInputs.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\refint\Task 6.dll
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.pdb
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\Task 6.genruntimeconfig.cache
+E:\University ChNU\Programming\Year 2\Term 2\Lab 1\Lab1\Lab 1\Task 6\obj\Debug\net6.0-windows\ref\Task 6.dll
